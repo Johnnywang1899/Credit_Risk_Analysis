@@ -26,4 +26,24 @@ Confusion Matrix:
 ![ccr_cm.PNG](image/ccr_cm.PNG)  
 Classification Report:  
 ![ccr_classification_report.PNG](image/ccr_classification_report.PNG)  
-- 
+- SMOTEENN Resampling:
+Accuracy Score:  
+![smoteenn_acc.PNG](image/smoteenn_acc.PNG)  
+Confusion Matrix:  
+![smote_cm.PNG](image/smote_cm.PNG)  
+Classification Report:  
+![smoteenn_classification_report.PNG](image/smoteenn_classification_report.PNG)  
+- Balanced Random Forest Classifier  
+Accuracy Score:  
+![brf_acc.PNG](image/brf_acc.PNG)  
+Confusion Matrix:  
+![brf_cm.PNG](image/brf_cm.PNG)  
+Classification Report:  
+![brf_classification_report.PNG](image/brf_classification_report.PNG)  
+Adaptive Boost Classifer:  
+Accuracy Score:  
+![adaboost_acc.PNG](image/adaboost_acc.PNG)  
+Confusion Matrix:  
+![adaboost_cm.PNG](image/adaboost_cm.PNG)  
+Classification Report:  
+![adaboost_classification_report.PNG](image/adaboost_classification_report.PNG)
