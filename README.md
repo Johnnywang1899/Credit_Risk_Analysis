@@ -18,7 +18,7 @@ Accuracy Score:
 Confusion Matrix:  
 ![smote_cm.PNG](image/smote_cm.PNG)  
 Classification Report:  
-![smote_classification_report.PNG]](image/smote_classification_report.PNG)  
+![smote_classification_report.PNG](image/smote_classification_report.PNG)  
 - Cluster Centroids Undersampling  
 Accuracy Score:  
 ![ccr_acc.PNG](image/ccr_acc.PNG)  
