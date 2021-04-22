@@ -40,10 +40,12 @@ Confusion Matrix:
 ![brf_cm.PNG](image/brf_cm.PNG)  
 Classification Report:  
 ![brf_classification_report.PNG](image/brf_classification_report.PNG)  
-Adaptive Boost Classifer:  
+- Adaptive Boost Classifer:  
 Accuracy Score:  
 ![adaboost_acc.PNG](image/adaboost_acc.PNG)  
 Confusion Matrix:  
 ![adaboost_cm.PNG](image/adaboost_cm.PNG)  
 Classification Report:  
-![adaboost_classification_report.PNG](image/adaboost_classification_report.PNG)
+![adaboost_classification_report.PNG](image/adaboost_classification_report.PNG)  
+
+## Summary
